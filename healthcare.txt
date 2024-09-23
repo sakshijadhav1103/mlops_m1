@@ -1,2 +1,2 @@
 This is a new file. 
-adding new content to this file. 
+adding new content to this file. "conflict line from main branch"  
